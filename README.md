@@ -1,4 +1,4 @@
-# job-portal-test
+# job-portal
 
 
 ![Screenshot (423)](https://user-images.githubusercontent.com/99388531/233987234-06a52b75-eebd-439b-8289-7b4dd3b6e2b1.png)
