@@ -1,0 +1,24 @@
+{ 
+  "Jobs":[ 
+    {
+      "jobName": "Engineer",
+      "Salary": 28000,
+      "Location": "Kochi",
+      "Skills": "Java"
+     },
+  
+  {
+    "jobName": "Developer",
+    "Salary": 25000,
+    "Location": "Trivandrum",
+    "Skills": "Java"
+  
+  }
+  ],
+  "users":[
+    {
+      "email":"akhilar@gmail.com",
+       "password":"akhila@123"
+    }
+  ]
+}
